@@ -1,4 +1,4 @@
-var startValue = '0.00000050', // Don't lower the decimal point more than 4x of current balance
+var startValue = '0.00000020', // Don't lower the decimal point more than 4x of current balance
 maxWait = 777,
 stopped = false, // debugging
 stopBefore = 1; // In minutes for timer before stopping redirect on webpage
